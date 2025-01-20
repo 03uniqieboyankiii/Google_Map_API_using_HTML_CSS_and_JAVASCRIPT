@@ -1,1 +1,3 @@
-# Google_Map_API_using_HTML_CSS_and_JAVASCRIPT
+# Google Maps API
+Google Maps API in HTML CSS and JAVASCRIPT
+Must Try
